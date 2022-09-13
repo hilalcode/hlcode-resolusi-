@@ -2,8 +2,11 @@ RENCANA KONTENT HLCODE
 - Java Script
   * ES6
   * Framework Javascript
+    ^ vue
  - struktur data dasar
 - Laravel 9
 - PHP framework
+   ^ Laravel
 - Vlog
 - Ruang Belajar
+- Python
