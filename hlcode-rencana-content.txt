@@ -2,8 +2,9 @@ RENCANA KONTENT HLCODE
 - Java Script
   * ES6
   * Framework Javascript
- - struktur data dasar
-- Laravel 9
+     ^ Angular
+     ^ React
 - PHP framework
+  ^ Laravel 9
 - Vlog
 - Ruang Belajar
